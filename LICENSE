@@ -1,6 +1,10 @@
-NOTE: The submodules contained in this repository may have their own
+NOTE: 
+- The submodules contained in this repository may have their own
 LISENCES, which are enforced for them.
-- https://github.com/munificent/craftinginterpreters.git (./craftinginterpreters)
+    - https://github.com/munificent/craftinginterpreters.git (./craftinginterpreters)
+- `additional_content` directory has more materials like research papers which
+are openly available on the internet but their policies may vary. So treat them
+as private and for reading only.
 ----------------------------------------------------------------------------------
 For everything else on the top level domain:
 
